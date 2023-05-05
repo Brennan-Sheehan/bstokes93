@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning to become a software engineer. This is where you will find my future portfolio and intersting projects. 
+
+I look forward to sharpening my skills.
